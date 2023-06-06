@@ -29,4 +29,4 @@ Now, let's talk tech:
 But that's not all! For a full picture of my skills and abilities, delve deeper into my repositories or better yet, drop me a line. 
 I'm excited to bring my expertise to your projects!
 
-📫 **How to reach me**: [airfigma@gmail.com]
+📫 **How to reach me**: airfigma@gmail.com
